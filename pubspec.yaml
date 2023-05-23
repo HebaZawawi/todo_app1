@@ -41,8 +41,8 @@ dependencies:
   conditional_builder: ^1.0.2
   bloc: ^8.1.1
   flutter_bloc: ^8.1.1
-  dio: ^5.1.2
-  http: ^0.13.6
+  
+
 
 dev_dependencies:
   flutter_test:
