@@ -85,7 +85,7 @@ class AppCubit extends Cubit<AppStates>
       });
     });
   }
-//aaaaadddd
+
   void getDataFromDatabase(Database database)
   {
     newTasks =[];
